@@ -1,0 +1,42 @@
+
+.login-form{
+    /* border: 1px solid lightgrey; */
+    width: 350px;
+    margin: 50px auto;
+    padding: 40px;
+    font-family: sans-serif;
+    border-radius: 14;
+    text-align: center;
+}
+
+input{
+    box-sizing: border-box;
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 15px;
+    border-radius: 14px;
+    border: 1px solid lightgrey;
+    font-size: 16px;
+}
+
+.btn{
+    padding: 15px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 40px;
+    cursor: pointer;
+    margin: 20px 0px;
+}
+
+a{
+    color: rgb(74, 69, 69);
+}
+
+p{
+    color: rgb(159, 154, 154);
+}
+
+.tc{
+    margin-top: 50px;
+}
